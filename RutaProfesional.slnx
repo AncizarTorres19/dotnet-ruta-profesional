@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/RutaProfesional.App/RutaProfesional.App.csproj" />
+  <Project Path="tests/RutaProfesional.Tests/RutaProfesional.Tests.csproj" />
+</Solution>
